@@ -1,0 +1,7 @@
+#pywin32==301
+#opencv_python==4.5.3.56
+#requests==2.26.0
+scipy==1.7.1
+#sounddevice==0.4.2
+#pathlib==1.0.1
+#jsonschema==3.2.0
