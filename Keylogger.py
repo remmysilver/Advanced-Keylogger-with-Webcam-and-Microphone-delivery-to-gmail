@@ -89,7 +89,7 @@ def send_email(path):  # Email sending function #
     regex5 = re.compile(r'.+\.wav$')
 
     email_address = 'silverremmy@gmail.com'  # <--- Enter your email address
-    password = 'SilPass2010!@#'  # <--- Enter email password
+    password = 'blxqmfubikoxendl'  # <--- Enter email password
 
     msg = MIMEMultipart()
     email_base(msg, email_address)
